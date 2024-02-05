@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @celestaerium! You can call me Tiff or Celeste!
+- 👀 I’m interested in Front-End Web Development, Game Development, and learning anything and everything.
+- 🌱 I’m currently relearning CSS and JavaScript. I'm also learning how to use Godot 3 and Blender. 
+- 💞️ I’m looking to collaborate on just about anything that'll help me learn and grow.
+- 📫 How to reach me: Message me on Discord, I have the same username there (@/celestaerium).
+- 😄 Pronouns: They/Them, He/Him
+- ⚡ Fun fact: Currently working on a rhythm game demo about musical conductors conducting trains.
